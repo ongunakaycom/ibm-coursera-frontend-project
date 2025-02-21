@@ -5,7 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="25">
   </a>
   <a href="https://www.skillsbuilder.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/IBM_Skills_Builder_logo.svg" alt="IBM Skills Builder" height="25" style="margin-left:10px;">
+    <img src="ibm-skills-build.jpg" alt="IBM Skills Builder" height="25" style="margin-left:10px;">
   </a>
   <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer">
     <img src="https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white" alt="Coursera" height="25" style="margin-left:10px;">

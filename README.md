@@ -1,6 +1,8 @@
 # IBM Full Stack Software Developer Professional Certificate  
-[![Coursera](https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
-[![IBM](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)  
+[![Coursera](https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)  
+<a href="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="80">
+</a>  
 
 ### Capstone Project  
 This project is part of the **[IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)** on [Coursera](https://www.coursera.org/).  

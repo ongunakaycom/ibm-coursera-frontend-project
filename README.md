@@ -100,11 +100,20 @@ This project was part of a learning journey — feel free to fork it, explore, a
 
 ## 👨‍💻 About the Author
 
-**Ongun Akay** — Senior Full-Stack Developer  
+**Ongun Akay** — Senior Full-Stack Developer
+
+I'm a passionate **Full-Stack Developer** with extensive experience across both **frontend** and **backend** technologies.  
+I enjoy building scalable, high-performance applications and continuously exploring new tools and frameworks to enhance development workflows.
+
+- 👀 **Expertise:** Full-stack web development, modern JavaScript frameworks, and cloud-based deployment.  
+- 🌱 **Currently Learning:** Advanced web architecture and DevOps practices.  
+- 💞️ **Collaboration:** Open to innovative projects that challenge creativity and technical problem-solving.  
+- 📫 **Contact:** [info@ongunakay.com](mailto:info@ongunakay.com)
+
+**Connect with me:**  
 - 🌐 [ongunakay.com](https://ongunakay.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/ongunakay)  
-- 🧑‍💻 [GitHub](https://github.com/ongunakaycom)  
-- 📧 [info@ongunakay.com](mailto:info@ongunakay.com)
+- 🧑‍💻 [GitHub](https://github.com/ongunakaycom)
 
 ---
 

@@ -87,12 +87,6 @@ jobs:
 
 ---
 
-## 📸 Preview
-
-![Home Page Screenshot](home.png)
-
----
-
 ## 🧩 Installation
 
 ```bash

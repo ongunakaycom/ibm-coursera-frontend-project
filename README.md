@@ -1,6 +1,6 @@
-# 💻 IBM Front-End Development Capstone Project
+# 💻 IBM Full Stack Developer Capstone Project
 
-A responsive front-end web project built using **HTML**, **CSS**, and **JavaScript**, created as part of the **IBM Full Stack Software Developer Professional Certificate** on [Coursera](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
+A responsive front-end web project built using **HTML**, **CSS**, and **JavaScript**, created as part of the **IBM Full Developer Professional Certificate** on [Coursera](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer).
 
 This capstone demonstrates foundational front-end development skills, emphasizing clean UI, accessibility, and best practices in modern web design.
 
@@ -10,14 +10,6 @@ This capstone demonstrates foundational front-end development skills, emphasizin
 
 This project represents the final capstone of the IBM Full Stack Developer Program.  
 It focuses on applying HTML, CSS, and JavaScript to create a functional, responsive, and user-friendly web page layout.
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
 
 ---
 
@@ -115,10 +107,4 @@ This project was part of a learning journey — feel free to fork it, explore, a
 - 📧 [info@ongunakay.com](mailto:info@ongunakay.com)
 
 ---
-
-## 🎓 Course Reference
-
-- **Program:** [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)  
-- **Platform:** [Coursera](https://www.coursera.org/)  
-- **Provider:** IBM Skills Network
 
